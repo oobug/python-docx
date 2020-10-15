@@ -21,7 +21,7 @@ nsmap = {
     "sl": "http://schemas.openxmlformats.org/schemaLibrary/2006/main",
     "vt" : "http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes",
     "w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main",
-    'w14': "http://schemas.microsoft.com/office/word/2010/wordml",
+    "w14": "http://schemas.microsoft.com/office/word/2010/wordml",
     "wp": "http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing",
     "xml": "http://www.w3.org/XML/1998/namespace",
     "xsi": "http://www.w3.org/2001/XMLSchema-instance",
